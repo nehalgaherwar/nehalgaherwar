@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nehal Gaherwar<br>🎓 1st Year Student at RTMSSU College<br>💻 Aspiring Software Developer / Programmer<br>🚀 Skills & Languages<br>☕ Java<br>🌐 JavaScript<br>🐍 python
+👋 Hi, I'm Nehal Gaherwar<br>🎓 1st Year Student at RTMSSU College<br>💻 Aspiring Software Developer / Programmer<br>🚀 Skills & Languages<br>☕ Java<br>🌐 JavaScript<br>🐍 python<br>css<br>html
 
 
 ## 🌐 Socials:
