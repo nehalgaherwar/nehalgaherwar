@@ -137,21 +137,25 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nehalgaherwar&bg_color=080A1A&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalgaherwar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Nehal's GitHub Contribution Activity Graph"/>
 
 </div>
 
----
 
-## 🐍 `07` — WATCH MY CONTRIBUTIONS COME ALIVE
+## 🐍 Watch My Contributions Come Alive
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
 </div>
 
----
 
 ## 💻 `08` — DEVELOPER TERMINAL
 
