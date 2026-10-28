@@ -1,184 +1,264 @@
-.
-  <div align="center">
+<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:211951,65:512DA8,100:00D9FF&text=NEHAL%20GAHERWAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=17&descAlignY=58&animation=twinkling" alt="Animated developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Nehal%20Gaherwar&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=IT%20Student%20%E2%80%A2%20Python%20%26%20Data%20Science%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=62" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Turning+Ideas+Into+Code+%E2%9A%A1;Building.+Learning.+Leveling+Up.+%F0%9F%9A%80" alt="Animated developer introduction"/>
+<a href="https://github.com/nehalgaherwar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Hi+%F0%9F%91%8B+I'm+Nehal+Gaherwar;IT+Student+%F0%9F%8E%93+%7C+Python+%26+Data+Science+%F0%9F%90%8D;Open+Source+Contributor+%F0%9F%8C%B1;Exploring+AI%2FML+%F0%9F%A4%96+%7C+Solving+DSA+%F0%9F%A7%A9;Hackathon+Enthusiast+%F0%9F%8F%86;Knowledge+cancels+the+fear.+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nehalgaherwar&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/nehalgaherwar?style=for-the-badge&logo=github&color=2c5364)
+![Stars](https://img.shields.io/github/stars/nehalgaherwar?style=for-the-badge&logo=github&color=f5c518)
+![Repos](https://img.shields.io/github/search/nehalgaherwar/nehalgaherwar?style=for-the-badge&label=Repos&color=blueviolet&query=user%3Anehalgaherwar)
 
 <br/>
 
-<a href="https://github.com/nehalgaherwar"><img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
-<a href="https://linkedin.com/in/nehal-gaherwar-854073378/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nehalgaherwar23@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=nehalgaherwar&style=flat-square&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehal-gaherwar-854073378)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nehalsingh_rajput_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalgaherwar23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehalgaherwar)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
-## 👾 `whoami` — About Me
+## 💫 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
 
-```yaml
-name: Nehal Gaherwar
-role: Aspiring Software Developer
-education: RTMSSU College
-focus:
-  - Software Development
-  - Data Structures & Algorithms
-  - Web Development
-  - Open Source
-  - AI & Innovation
-mindset: Learn by Building
-mission: Turn Ideas Into Reality
+```python
+class Nehal:
+    def __init__(self):
+        self.name     = "Nehal Gaherwar"
+        self.role     = "IT Student"
+        self.focus    = ["Python", "Data Science", "AI/ML", "DSA"]
+        self.loves    = ["Open Source", "Hackathons", "Building Projects"]
+        self.learning = "Something new every day"
+        self.motto    = "Knowledge cancels the fear."
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome 🚀")
+
+Nehal().say_hi()
 ```
 
-**Hey there!** 👋 Welcome to my corner of GitHub.
+- 🚀 Passionate about building innovative projects and exploring **AI/ML**
+- 🧩 Solving problems with **Data Structures & Algorithms**
+- 🏆 Taking part in **hackathons**
+- 🌱 Currently learning, building, and contributing to open source
 
-I'm a student passionate about technology, problem-solving, and building things that make a difference.
+> ✨ **"Knowledge cancels the fear."**
 
-- 💻 Exploring software development
-- 🚀 Learning through hands-on projects
-- 🌱 Improving my DSA and coding skills
-- 🤝 Interested in open-source collaboration
-- ⚡ Always curious about what's next in tech
+<br clear="right"/>
 
-</td>
-<td width="42%" valign="middle">
-
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
-
-</td>
-</tr>
-</table>
-
-> `while (alive) { learn(); build(); repeat(); }`
-
----
-
-## ⚡ Tech Arsenal
+## ⚡ Quick Facts
 
 <div align="center">
 
-### `01` — Programming
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript&theme=dark" alt="Programming languages"/>
-
-### `02` — Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend technologies"/>
-
-### `03` — Tools & Creative Tech
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,unity&theme=dark" alt="Developer tools"/>
-
-<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+| 🎓 Education | 💻 Main Language | 🧠 Interest | 🌍 Open To |
+|:---:|:---:|:---:|:---:|
+| IT Student | Python 🐍 | AI / ML | Open Source & Hackathons |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**🗣️ Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css&perline=8" alt="Languages" />
+
+**⚙️ Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,nodejs,react,tailwind,bootstrap&perline=6" alt="Frameworks" />
+
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&perline=4" alt="Databases" />
+
+**☁️ Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,linux&perline=6" alt="Cloud" />
+
+**📊 Data Science & AI**<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,jupyter&perline=4" alt="Data science" />
+
+**🎨 Design & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=ai,ps,figma,vscode&perline=4" alt="Design" />
+&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
+
+## 📈 Skill Progress
+
+<!-- Edit these percentages to match your own level -->
+
+<div align="center">
+
+| Skill | Progress |
+|:---|:---|
+| 🐍 Python | ![](https://progress-bar.dev/85/?width=300) |
+| 🧩 DSA | ![](https://progress-bar.dev/70/?width=300) |
+| 🤖 AI / ML | ![](https://progress-bar.dev/60/?width=300) |
+| 🌐 Web Development | ![](https://progress-bar.dev/70/?width=300) |
+| ☁️ Cloud | ![](https://progress-bar.dev/50/?width=300) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+| 🔭 Learning | 🛠️ Building | 🤝 Contributing |
+|:---:|:---:|:---:|
+| AI / ML & Deep Learning | Python & Data Science projects | Open source repositories |
+| Advanced DSA | Full-stack apps (Next.js + FastAPI) | Hackathon teams |
+
+</div>
+
+## 🗺️ My Roadmap
+
+- [x] Learn programming fundamentals (C, C++, Java, Python)
+- [x] Explore web development (JavaScript, TypeScript, Next.js)
+- [x] Start contributing to open source
+- [ ] Master DSA and competitive problem solving
+- [ ] Build and deploy AI/ML projects
+- [ ] Win a hackathon 🏆
+- [ ] Earn a cloud certification (AWS / Azure / GCP)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
+<!-- Replace "your-repo-name" with your real repo names. Pin cards update automatically. -->
+
 <div align="center">
 
-<a href="https://github.com/nehalgaherwar/Smart-Border-Surveillance-AI-Command-Center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nehalgaherwar&repo=Smart-Border-Surveillance-AI-Command-Center&theme=tokyonight&hide_border=true" alt="Smart Border Surveillance project"/>
+<a href="https://github.com/nehalgaherwar/your-repo-name-1">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=nehalgaherwar&repo=your-repo-name-1&theme=tokyonight&hide_border=true" alt="Project 1" />
+</a>
+<a href="https://github.com/nehalgaherwar/your-repo-name-2">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=nehalgaherwar&repo=your-repo-name-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+</a>
+<a href="https://github.com/nehalgaherwar/your-repo-name-3">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=nehalgaherwar&repo=your-repo-name-3&theme=tokyonight&hide_border=true" alt="Project 3" />
+</a>
+<a href="https://github.com/nehalgaherwar/your-repo-name-4">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=nehalgaherwar&repo=your-repo-name-4&theme=tokyonight&hide_border=true" alt="Project 4" />
 </a>
 
 </div>
 
-**More projects coming soon!** Check my repositories for experiments, learning projects, and new builds.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
----
-
-## 📊 GitHub Command Center
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nehalgaherwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalgaherwar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="190" src="https://github-readme-stats.shion.dev/api?username=nehalgaherwar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nehalgaherwar&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
-<img width="75%" src="https://nirzak-streak-stats.vercel.app/?user=nehalgaherwar&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=nehalgaherwar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehalgaherwar&theme=tokyonight" alt="Profile details" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nehalgaherwar&theme=tokyonight" alt="Repos per language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nehalgaherwar&theme=tokyonight" alt="Most commit language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nehalgaherwar&theme=tokyonight" alt="Stats" width="48%" />
 
 </div>
 
----
-
-## 🏆 Unlocking Achievements
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nehalgaherwar&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub achievements"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalgaherwar&theme=tokyo-night&hide_border=true&area=true&custom_title=Nehal%27s%20Contribution%20Graph" alt="Contribution graph" width="100%" />
 
 </div>
 
----
-
-## 📈 My Coding Journey
+## 🏆 Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nehalgaherwar&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=NEHAL'S%20CONTRIBUTION%20TIMELINE" alt="Contribution activity graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nehalgaherwar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 
 </div>
 
----
-
-## 🐍 Watch My Contributions Come Alive
+## 🔝 Top Contributed Repos
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=nehalgaherwar&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="Top contributed repos" />
 
 </div>
 
-> **Setup note:** The snake graphic requires a GitHub Actions workflow to generate and publish the SVG to an `output` branch. Until configured, the image may not load.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
----
-
-## 💻 Developer Console
+## 🐍 Contribution Snake
 
 <div align="center">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nehal Gaherwar"
-        self.status = "Learning & Building"
-        self.goal = "Become a Better Developer"
-
-    def next_step(self):
-        return "Build something meaningful 🚀"
-
-me = Developer()
-print(me.next_step())
-```
+<!-- Needs the Platane/snk GitHub Action to generate the "output" branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/nehalgaherwar/nehalgaherwar/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
----
+## 🎲 Fun Facts
 
-## 🌐 Find Me Around the Web
+<details>
+<summary><b>👉 Click to expand</b></summary>
+<br/>
+
+- 🎯 I believe every bug is just a lesson in disguise
+- 🌙 Code feels better with a cup of chai ☕
+- 🧠 I love turning "I don't know" into "I just learned it"
+- 🤝 Open source is my favourite way to learn from others
+
+</details>
+
+## ✍️ Random Dev Quote
 
 <div align="center">
 
-<a href="https://github.com/nehalgaherwar"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nehal-gaherwar-854073378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/nehalsingh_rajput_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:nehalgaherwar23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<br/><br/>
+</div>
 
-### 💜 Thanks for stopping by!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
-**⭐ Explore my repositories • Follow my journey • Let's build something cool!**
+## 🤝 Let's Collaborate
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:512DA8,100:050816&height=120&section=footer" alt="Neon footer"/>
+I'm always open to:
+
+- 🌱 Open source contributions
+- 🏆 Hackathon teaming
+- 🤖 AI/ML and Data Science project ideas
+- 💬 Chatting about DSA, Python, or tech in general
+
+<div align="center">
+
+<br/>
+
+### ⭐ If you like my work, give my repos a star! ⭐
+
+[![Visitors](https://komarev.com/ghpvc/?username=nehalgaherwar&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer" />
+
+<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> ❤️</sub>
 
 </div>
