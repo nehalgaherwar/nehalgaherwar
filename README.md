@@ -1,4 +1,4 @@
-
+.
   <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:211951,65:512DA8,100:00D9FF&text=NEHAL%20GAHERWAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=17&descAlignY=58&animation=twinkling" alt="Animated developer banner"/>
